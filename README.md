@@ -1,2 +1,4 @@
-# SCROLL-PROGRESS-BAR
-Project: Scroll Progress Bar
+# Readline
+
+Long-form reading website with five original sections, progress bar, active table of contents, font sizing, focus mode and a remembered bookmark.
+
